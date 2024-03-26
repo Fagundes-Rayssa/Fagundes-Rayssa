@@ -1,4 +1,11 @@
-<!DOCTYPE html>
+
+body{
+background-color: rgb(223, 8, 8);
+margin-left: 20%;
+margin-right: 23%;
+border: 4px dotted rgb(0, 0, 0);
+padding: 10px 10px 10px 10px;
+}<!DOCTYPE html>
 <html lang="pt-br">
 <head>
 <meta charset="UTF-8">
@@ -6,13 +13,6 @@
 <title>Pizzaria da Ronda</title>
 
 <style>
-body{
-background-color: rgb(255, 255, 255);
-margin-left: 20%;
-margin-right: 23%;
-border: 4px dotted rgb(132, 0, 255);
-padding: 10px 10px 10px 10px;
-}
 h1.titulo{
 color:rgb(0, 0, 0);
 font-family: Verdana, Geneva, Tahoma;
@@ -20,7 +20,7 @@ font-size: 30pt;
 text-align: center;
 text-shadow: 4px 4px 4px #fbf2ef;
 }
-img{border: 4px solid rgb(0, 0, 0); margin-left: 2%;margin-right: 10px;}
+img{border: 4px solid rgb(255, 255, 255); margin-left: 2%;margin-right: 10px;}
 
 h2.sub-titulo{
 color:rgb(0, 0, 0);
@@ -91,12 +91,12 @@ color: rgb(241, 233, 233);
 <hr>
 </ol>
 <br>
-<img src="pizza7.jpeg" alt="imagem de pizza" width="222" height="130" border="4">
-<img src="pizza8.jpeg" alt="imagem de pizza" width="222" height="130" border="4">
-<img src="pizza9.jpeg" alt="imagem de pizza" width="222" height="130" border="4">
-<img src="pizza10.jpeg" alt="imagem de pizza" width="222" height="130" border="4">
-<img src="pizza11.jpeg" alt="imagem de pizza" width="222" height="130" border="4">
-<img src="pizza12.jpeg" alt="imagem da pizza" width="222" height="130" border="4">
+<img src="pizza7.jpg" alt="imagem de pizza" width="222" height="130" border="4">
+<img src="pizza8.jpg" alt="imagem de pizza" width="222" height="130" border="4">
+<img src="pizza9.jpg" alt="imagem de pizza" width="222" height="130" border="4">
+<img src="pizza10.jpg" alt="imagem de pizza" width="222" height="130" border="4">
+<img src="pizza11.jpg" alt="imagem de pizza" width="222" height="130" border="4">
+<img src="pizza12.jpg" alt="imagem da pizza" width="222" height="130" border="4">
 
 <h2 class="sub-titulo">Cardápio - Pizzas Doces</h2>
 <br>
@@ -126,3 +126,4 @@ Facebook: Pizzaria Fagundes
 
 </body>
 </html>
+
