@@ -1,4 +1,4 @@
-let lanches = [["cachorro-quente", 5], ["paçoca", 2], ["rifregerante-suco", 4], ["Pastel", 8], ["pipoca", 5]];
+let lanches = [["cachorro-quente", 5], ["paçoca", 2], ["refregerante-suco", 4], ["Pastel", 8], ["pipoca", 5]];
 
 
 function mostraCardapio() {
